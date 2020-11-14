@@ -13,3 +13,7 @@ if (hourNow > 18) {
 	}
 	
 document.write('<h3>' + greeting + '</h3');
+document.write('<h3>' + greeting + '</h3');
+console.log (today);
+console.log (hourNow);
+console.log (greeting);
