@@ -1,4 +1,5 @@
 # Date-Method
+http://www.michaelogrady.net/college-projects/Javascript-Function-Time-Specific-Display-Content-main/add-content.html
 
 -Simple Javascript function to display specific content at a certain time of the day.
 
